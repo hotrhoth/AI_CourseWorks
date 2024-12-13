@@ -1,1 +1,7 @@
-# AI_CourseWorks
+#### AI_CourseWorks
+Author: Ho Thuy Tram
+
+![Accomplishment](Accomplishment.png)
+
+
+
